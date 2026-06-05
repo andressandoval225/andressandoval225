@@ -7,11 +7,9 @@
 <p align="center">
 🚀 Web Development • 🎨 Digital Design • 📈 Digital Marketing
 </p>
-
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:E5E5E5,100:1F1F1F&height=250&section=header&text=Andrés%20Sandoval&fontSize=50&fontColor=000000&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:CFCFCF&height=250&section=header&text=Andrés%20Sandoval&fontSize=50&fontColor=222222&animation=fadeIn"/>
 </p>
-
 ---
 
 ## 🚀 About Me
