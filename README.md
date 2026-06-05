@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0EA5E9&height=220&section=header&text=Andrés%20Sandoval&fontSize=45&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5F5F5,100:1A1A1A&height=250&section=header&text=Andrés%20Sandoval&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 ---
